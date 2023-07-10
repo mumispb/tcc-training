@@ -1,4 +1,4 @@
-# tcc-training
+Código de treinamento do TCC
 
 Neste repositório, você encontrará apenas um arquivo Main.ipynb que contém
 o código para o treinamento de um modelo de classificação de imagens utilizando
